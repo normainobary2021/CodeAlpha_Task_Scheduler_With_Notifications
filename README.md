@@ -1,7 +1,7 @@
 # CodeAlpha_Task_Scheduler_With_Notifications
 
 
-👉 [DEMO](https://kalenda-scheduler.vercel.app/)
+👉 [DEMO](https://kalenda-scheduler.onrender.com)
 
 ## Prerequisites
 
